@@ -4,6 +4,8 @@
 
 jabbapylib
 ==========
+
+[![Join the chat at https://gitter.im/ThePenguin1140/jabbapylib](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ThePenguin1140/jabbapylib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A lightweight, general-purpose Python library.
 
 * Author:  Laszlo Szathmary, 2011--2013 (<jabba.laci@gmail.com>)
